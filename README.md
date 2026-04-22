@@ -6,7 +6,7 @@ Excel-based data analysis project focusing on coffee shop sales trends, customer
 This project focuses on analyzing coffee shop sales data to uncover key business insights such as sales trends, customer preferences, and product performance.
 
 ## 📊 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ## 🔍 Key Insights
 - Identified peak sales hours and high-demand products  
